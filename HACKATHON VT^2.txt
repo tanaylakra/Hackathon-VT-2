@@ -1,0 +1,19 @@
+Taking attendence using face detection (by- VT^2):
+
+Members: Vaishnavi Yadav - vaishnavi.1836@gmail.com
+         Tripti Soni - ayushi.121102@gmail.com
+         Tanay Lakra - tanaylakra@gmail.com
+
+Intro: We are the students of Integrated B.tech-M.tech CSE (2nd year- 3rd sem) from School of ICT
+       and our topic is marking attendance using face detection.
+
+1.Here in this project our main aim was to create an attendence sheet based on face recognition system, we have performed all the steps from data collection
+  to the final outout which means marking attendence and the corresponding timeline in a csv file (attendence.csv) after the face detection of a person.
+
+2.We have mainly used three modules to make this project : Face recognition module (for face detection), datetime module (for taking the attendence) & 
+  opencv module (for marking the face which is detected).
+
+3.We have tried to take the attendence of 4 persons in this project: Hrithik Roshan, Ratan Tata, Chanda Devi and Krish Naik
+
+4.Rest of the things you can find in our code, we have used the best of my knowledge to explain everything there.
+
